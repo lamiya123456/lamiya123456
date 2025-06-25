@@ -23,32 +23,6 @@ Hi, I'm Lamiya — a passionate and dedicated Full Stack Web Developer from Bang
 
 I'm currently deepening my skills in React and Node.js, and I enjoy turning ideas into real-world applications. I’m also open to collaboration on exciting full-stack projects and constantly learning to grow as a developer.
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35"> Tech Stack
-<div align="center">
-
-Frontend
-!HTML5
-!CSS3
-!JavaScript
-!React
-
-!Tailwind CSS
-
-Backend
-!Node.js
-!Express.js
-!MongoDB
-
-!Firebase
-
-Tools & Others
-!Git
-!GitHub
-!VS Code
-!Postman
-!Netlify
-
-</div>
 
 
 

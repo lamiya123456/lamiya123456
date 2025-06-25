@@ -23,9 +23,31 @@ Hi, I'm Lamiya — a passionate and dedicated Full Stack Web Developer from Bang
 
 I'm currently deepening my skills in React and Node.js, and I enjoy turning ideas into real-world applications. I’m also open to collaboration on exciting full-stack projects and constantly learning to grow as a developer.
 
+<div align="center">
 
+Frontend
+!HTML5
+!CSS3
+!JavaScript
+!React
 
+!Tailwind CSS
 
+Backend
+!Node.js
+!Express.js
+!MongoDB
+
+!Firebase
+
+Tools & Others
+!Git
+!GitHub
+!VS Code
+!Postman
+!Netlify
+
+</div>
 
 
 
@@ -34,7 +56,9 @@ I'm currently deepening my skills in React and Node.js, and I enjoy turning idea
 
 
 📫 Contact Information
+
 📍 Location: dhaka, Bangladesh
+
 📧 Email: lamiyaaktertanzila@gmail.com
 
 

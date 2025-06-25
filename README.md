@@ -1,6 +1,6 @@
 # Hi, I'm Lamiya 👋
 
-🚀 Frontend Developer | JavaScript Enthusiast | Lifelong Learner
+🚀 FULL STACK WEB DEVELOPER | JavaScript Enthusiast | Lifelong Learner
 
 
 

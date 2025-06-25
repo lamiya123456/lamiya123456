@@ -86,10 +86,18 @@ I'm currently deepening my skills in React and Node.js, and I enjoy turning idea
 </a>
 
 <br />
-
-
 <br>
 twitter.com
+
+
+
+
+
+
+
+
+
+
 
 
 

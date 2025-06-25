@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 📫   Feel free to ping me on LinkedIn
 
 
-
+![Black_and_Yellow_Web_Developer_LinkedIn_Banner_1](https://github.com/user-attachments/assets/d3ff3af5-ae1e-4d55-ae8a-b89f5bdbb934)
